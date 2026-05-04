@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GhostWriter X
 // @namespace    http://tampermonkey.net/
-// @version      final
+// @version      Final
 // @description  Advanced invisible automation for healthcare screening administration
 // @author       xpzeus@proton.me
 // @match        https://sehatindonesiaku.kemkes.go.id/*
