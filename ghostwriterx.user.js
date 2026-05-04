@@ -4,7 +4,7 @@
 // @version      Final
 // @description  Advanced invisible automation for healthcare screening administration
 // @author       xpzeus@proton.me
-// @match        https://sehatindonesiaku.kemkes.go.id/*
+// @match        https://sehatindonesiaku.kemkes.go.id/ckg-pendaftaran-individu
 // @match        https://form.kemkes.go.id/v2/skrining-form/*
 // @grant        none
 // ==/UserScript==
